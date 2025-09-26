@@ -1,10 +1,10 @@
 {
-  "name": "sb-nodejs",
+  "name": "nodejs",
   "version": "1.0.0",
   "description": "Node.js Server",
   "main": "app.js",
-  "author": "eooce",
-  "repository": "eooce",
+  "author": "ygkkk",
+  "repository": "ygkkk",
   "license": "MIT",
   "private": false,
   "scripts": {
