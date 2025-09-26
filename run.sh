@@ -8,4 +8,4 @@ wget https://raw.githubusercontent.com/ahhfzwl/node.js/main/package.json
 sed -i "s/('UUID', '')/('UUID', '$uuid')/g" "app.js"
 sed -i "s/('DOMAIN', '')/('DOMAIN', '$domain')/g" "app.js"
 sed -i "s/('PORT', '')/('PORT', '$vl_port')/g" "app.js"
-echo "安装结束" 
+npm start
